@@ -11,9 +11,11 @@ The purpose of this initiative is to provide bike sharing analysis to investors 
 
 
 
+
 ![](https://github.com/landeros91/bikesharing/blob/main/images/Checkout%20Times%20by%20Gender.png)
 
 The majority of bikes at 5 minute duration are males.
+
 
 
 
