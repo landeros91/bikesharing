@@ -38,3 +38,5 @@ There are less subscribers on Sunday. This makes sense as the program has shown 
 ---------------------------------------------------------------------------------------------------------------
 
 ## Summary
+
+By observing the "Trips by Weekday for Each Hour" data visualization, we can see that the heat map is showing us that the program is more affective during the weekdays/mornign and afternoon commute hours. This program would help the investors get their money but also help reduce carbon footprint! This form of transportation also helps people get their excercise for the week as well!
