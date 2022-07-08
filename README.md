@@ -10,7 +10,7 @@ The purpose of this initiative is to provide bike sharing analysis to investors 
 ~146k bikes have a trip duration of 5 min.
 
 
-
+---------------------------------------------------------------------------------------------------------
 
 ![](https://github.com/landeros91/bikesharing/blob/main/images/Checkout%20Times%20by%20Gender.png)
 
